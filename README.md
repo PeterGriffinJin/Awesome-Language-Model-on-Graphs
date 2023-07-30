@@ -1,4 +1,4 @@
-# Awesome-LM-on-Graphs
+# Awesome-Language-Model-on-Graphs
 A curated list of papers and resources about language model on graphs.
 
 ## Contents
