@@ -56,11 +56,16 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 <br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
 - [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)
-<br>Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang and Jure Leskovec.
+<br>Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec.
 <br>*NeurIPs 2022*.
 <br>[[PDF](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)] [[Code](https://github.com/michiyasunaga/dragon)]
 
 ## Classification
+- [Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://yuzhimanhua.github.io/papers/www22zhang.pdf)
+<br>Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, Jiawei Han.
+<br>**.
+<br>[[PDF](https://yuzhimanhua.github.io/papers/www22zhang.pdf)] [[Code](https://github.com/yuzhimanhua/MICoL)]
+
 - [Learning on Large-scale Text-attributed graphs via variational inference](https://openreview.net/pdf?id=q0nmYciuuZN)
 <br>Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang.
 <br>*ACL 2023*.
