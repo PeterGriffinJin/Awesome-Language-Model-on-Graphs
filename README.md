@@ -50,15 +50,22 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 <br>*ACL 2022*.
 <br>[[PDF](https://arxiv.org/pdf/2203.15827.pdf)] [[Code](https://github.com/michiyasunaga/LinkBERT)]
 
+- [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)
+<br>Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec.
+<br>*NeurIPs 2022*.
+<br>[[PDF](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)] [[Code](https://github.com/michiyasunaga/dragon)]
+
 - [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
 <br>Bowen Jin, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.
 <br>*ACL 2023*.
 <br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
 
-- [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)
-<br>Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec.
-<br>*NeurIPs 2022*.
-<br>[[PDF](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)] [[Code](https://github.com/michiyasunaga/dragon)]
+- [Graph-Aware Language Model Pre-Training on a Large Graph
+Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pdf)
+<br>Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi
+<br>*KDD 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2306.02592.pdf)]
+
 
 ## Classification
 - [Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://yuzhimanhua.github.io/papers/www22zhang.pdf)
