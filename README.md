@@ -47,8 +47,8 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 ## Pretraining
 - [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://arxiv.org/abs/2004.07180)
 <br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld.
-<br>**.
-<br>[[PDF]()] [[Code]()]
+<br>*ACL 2020*.
+<br>[[PDF](https://arxiv.org/abs/2004.07180)]
 
 
 - [LinkBERT: Pretraining Language Models with Document Links](https://arxiv.org/pdf/2203.15827.pdf)
