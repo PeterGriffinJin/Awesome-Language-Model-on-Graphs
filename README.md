@@ -45,6 +45,12 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 
 
 ## Pretraining
+- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://arxiv.org/abs/2004.07180)
+<br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld.
+<br>**.
+<br>[[PDF]()] [[Code]()]
+
+
 - [LinkBERT: Pretraining Language Models with Document Links](https://arxiv.org/pdf/2203.15827.pdf)
 <br>Michihiro Yasunaga, Jure Leskovec, Percy Liang.
 <br>*ACL 2022*.
@@ -62,7 +68,7 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 
 - [Graph-Aware Language Model Pre-Training on a Large Graph
 Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pdf)
-<br>Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi
+<br>Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi.
 <br>*KDD 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2306.02592.pdf)]
 
@@ -95,3 +101,5 @@ If you find any error or have relevant resources, feel free to open an issue or 
 <br>
 <br>**.
 <br>[[PDF]()] [[Code]()] -->
+
+<!-- add specter -->
