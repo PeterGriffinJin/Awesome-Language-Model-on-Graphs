@@ -7,6 +7,7 @@ A curated list of papers and resources about language model on graphs.
   - [Datasets](#datasets)
   - [Representation Learning](#representation-learning)
   - [Pretraining](#pretraining)
+  - [Distillation](#distillation)
   - [Classification](#classification)
   - [Contribution](#contribution)
 
@@ -71,6 +72,17 @@ Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pd
 <br>Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi.
 <br>*KDD 2023*.
 <br>[[PDF](https://arxiv.org/pdf/2306.02592.pdf)]
+
+## Efficiency & Model distillation
+- [Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs](https://arxiv.org/abs/2304.10668)
+<br>C. Mavromatis, V. N. Ioannidis, S. Wang, D. Zheng, S. Adeshina, J. Ma, H. Zhao, C. Faloutsos, G. Karypis.
+<br>*PKDD 2023*.
+<br>[[PDF](https://arxiv.org/abs/2304.10668)]
+
+- [Efficient and effective training of language and graph neural network models](https://arxiv.org/abs/2206.10781)
+<br>Vassilis N Ioannidis, Xiang Song, Da Zheng, Houyu Zhang, Jun Ma, Yi Xu, Belinda Zeng, Trishul Chilimbi, George Karypis.
+<br>*AAAI 2023*.
+<br>[[PDF](https://arxiv.org/abs/2206.10781)] [[Code]()]
 
 
 ## Classification
