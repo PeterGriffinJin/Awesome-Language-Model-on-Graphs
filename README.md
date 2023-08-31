@@ -27,12 +27,22 @@ A curated list of papers and resources about language model on graphs.
 
 
 
+
 ## Representation Learning
+- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://arxiv.org/abs/2004.07180)
+<br>*ACL 2020*.
+<br>[[PDF](https://arxiv.org/abs/2004.07180)]
+<!-- <br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld. -->
+
 - [GraphFormers: GNN-nested Transformers for
 Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 <br>*NeurIPs 2021*.
 <br>[[PDF](https://arxiv.org/abs/2105.02605)] [[Code](https://github.com/microsoft/GraphFormers)]
 <!-- <br>Junhan Yang, Zheng Liu, Shitao Xiao, Chaozhuo Li, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie. -->
+
+- [Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings](https://arxiv.org/pdf/2202.06671.pdf)
+<br>*EMNLP 2022*.
+<br>[[PDF](https://arxiv.org/pdf/2202.06671.pdf)] [[Code](https://github.com/malteos/scincl)]
 
 
 - [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
@@ -48,11 +58,6 @@ Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
 
 
 ## Pretraining
-- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://arxiv.org/abs/2004.07180)
-<br>*ACL 2020*.
-<br>[[PDF](https://arxiv.org/abs/2004.07180)]
-<!-- <br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld. -->
-
 
 - [LinkBERT: Pretraining Language Models with Document Links](https://arxiv.org/pdf/2203.15827.pdf)
 <br>*ACL 2022*.
