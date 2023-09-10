@@ -98,6 +98,11 @@ Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pd
 <!-- <br>Vassilis N Ioannidis, Xiang Song, Da Zheng, Houyu Zhang, Jun Ma, Yi Xu, Belinda Zeng, Trishul Chilimbi, George Karypis. -->
 
 
+- [Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs](https://arxiv.org/pdf/2304.10668.pdf)
+<br>*preprint 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2304.10668.pdf)] [[Code](https://github.com/cmavro/GRAD)]
+
+
 ## Classification
 - [Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://yuzhimanhua.github.io/papers/www22zhang.pdf)
 <br>*WWW 2022*.
@@ -109,6 +114,17 @@ Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pd
 <br>*ACL 2023*.
 <br>[[PDF](https://openreview.net/pdf?id=q0nmYciuuZN)] [[Code](https://github.com/AndyJZhao/GLEM)]
 <!-- <br>Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang. -->
+
+
+- [Node Feature Extraction by Self-Supervised Multi-Scale Neighborhood Prediction](https://arxiv.org/pdf/2111.00064.pdf)
+<br>*ICLR 2022*.
+<br>[[PDF](https://arxiv.org/pdf/2111.00064.pdf)] [[Code](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt)]
+
+
+- [Explanations as Features: LLM-Based Features for Text-Attributed Graphs](https://arxiv.org/pdf/2305.19523.pdf)
+<br>*preprint 2023*.
+<br>[[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)]
+
 
 ## Question Answering
 - [GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering](https://cs.stanford.edu/~myasu/papers/greaselm_iclr22.pdf)
@@ -127,5 +143,3 @@ If you find any error or have relevant resources, feel free to open an issue or 
 <br>
 <br>**.
 <br>[[PDF]()] [[Code]()] -->
-
-<!-- add specter -->
