@@ -6,7 +6,7 @@ A curated list of papers and resources about language model on graphs.
 </p>
 
 ## Contents
-- [Awesome-LM-on-Graphs](#awesome-lm-on-graphs)
+- [Awesome-LM-on-Graphs](#awesome-language-model-on-graphs)
   - [Contents](#contents)
   - [Datasets](#datasets)
   - [Basic](#basic)
@@ -14,7 +14,9 @@ A curated list of papers and resources about language model on graphs.
   - [Pretraining](#pretraining)
   - [Node Classification](#node-classification)
   - [Graph Classification](#graph-classification)
+  - [Language Modeling](#language-modeling)
   - [Question Answering](#question-answering)
+  - [Text Generation](#language-modeling)
   - [Graph As Tools](#graph-as-tools)
   - [Model Efficiency](#model-efficiency)
   - [Contribution](#contribution)
@@ -95,6 +97,10 @@ A curated list of papers and resources about language model on graphs.
 
     *Michihiro Yasunaga, Jure Leskovec, Percy Liang.* [[Paper](https://arxiv.org/pdf/2203.15827.pdf)][[Code]](https://github.com/michiyasunaga/LinkBERT), 2022.3, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
+1. **TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations at Twitter.** `KDD 2023`
+
+    *Xinyang Zhang, Yury Malkov, Omar Florez, Serim Park, Brian McWilliams, Jiawei Han, Ahmed El-Kishky.* [[PDF](https://arxiv.org/abs/2209.07562)] [[Code](https://github.com/xinyangz/TwHIN-BERT)], 2022.9, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
 1. **DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining.** `NeurIPs 2022`
 
     *Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec.* [[Paper](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)][[Code]](https://github.com/michiyasunaga/dragon), 2022.10, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
@@ -106,6 +112,7 @@ A curated list of papers and resources about language model on graphs.
 1. **Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications.** `KDD 2023`
 
     *Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi.* [[Paper](https://arxiv.org/pdf/2306.02592.pdf)], 2023.6, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
 
 
 ## Node Classification
@@ -157,6 +164,12 @@ A curated list of papers and resources about language model on graphs.
 
     *Chen Qian, Huayi Tang, Zhirui Yang, Hong Liang, Yong Liu.* [[PDF](https://browse.arxiv.org/pdf/2307.07443.pdf)] [[Code](https://github.com/ChnQ/LLM4Mol)], 2023.7, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+## Language Modeling
+
+1. **GNN-LM: Language Modeling based on Global Contexts via GNN.** `ICLR 2022`
+
+    *Yuxian Meng, Shi Zong, Xiaoya Li, Xiaofei Sun, Tianwei Zhang, Fei Wu, Jiwei Li.* [[PDF](https://arxiv.org/abs/2110.08743)] [[Code](https://github.com/ShannonAI/GNN-LM)], 2021.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
 
 ## Question Answering
 
@@ -167,6 +180,17 @@ A curated list of papers and resources about language model on graphs.
 1. **GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering.** `ICLR 2022`
 
     *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D Manning and Jure Leskovec.* [[PDF](https://cs.stanford.edu/~myasu/papers/greaselm_iclr22.pdf)] [[Code](https://github.com/snap-stanford/GreaseLM)], 2022.1, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
+
+## Text Generation
+
+1. **Text Generation from Knowledge Graphs with Graph Transformers.** `NAACL 2019`
+
+    *Rik Koncel-Kedziorski, Dhanush Bekal, Yi Luan, Mirella Lapata, Hannaneh Hajishirzi.* [[PDF](https://arxiv.org/abs/1904.02342)] [[Code](https://github.com/rikdz/GraphWriter)], 2019.4, ![](https://img.shields.io/badge/EncoderDecoder-blue) ![](https://img.shields.io/badge/Medium-red)
+
+1. **Explaining Relationships Between Scientific Documents.** `ACL 2021`
+
+    *Kelvin Luu, Xinyi Wu, Rik Koncel-Kedziorski, Kyle Lo, Isabel Cachola, Noah A. Smith.* [[PDF](https://arxiv.org/abs/2002.00317)], 2020.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
 
 ## Graph As Tools
