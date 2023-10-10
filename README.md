@@ -16,7 +16,7 @@ A curated list of papers and resources about language model on graphs.
   - [Graph Classification](#graph-classification)
   - [Language Modeling](#language-modeling)
   - [Question Answering](#question-answering)
-  - [Text Generation](#language-modeling)
+  - [Text Generation](#text-generation)
   - [Graph As Tools](#graph-as-tools)
   - [Model Efficiency](#model-efficiency)
   - [Contribution](#contribution)
