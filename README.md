@@ -29,112 +29,82 @@ A curated list of papers and resources about language model on graphs.
 
 
 ## Representation Learning
-<!-- - [](https://arxiv.org/abs/2004.07180)
-<br>**.
-<br>[[PDF](https://arxiv.org/abs/2004.07180)]
-<br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld. -->
 
 1. **SPECTER: Document-level Representation Learning using Citation-informed Transformers.** `ACL 2020`
 
     *Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld.* [[Paper](https://arxiv.org/abs/2004.07180)], 2020.4
 
-- [GraphFormers: GNN-nested Transformers for
-Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
-<br>*NeurIPs 2021*.
-<br>[[PDF](https://arxiv.org/abs/2105.02605)] [[Code](https://github.com/microsoft/GraphFormers)]
-<!-- <br>Junhan Yang, Zheng Liu, Shitao Xiao, Chaozhuo Li, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie. -->
+1. **GraphFormers: GNN-nested Transformers for Representation Learning on Textual Graph.** `NeurIPs 2021`
 
-- [Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings](https://arxiv.org/pdf/2202.06671.pdf)
-<br>*EMNLP 2022*.
-<br>[[PDF](https://arxiv.org/pdf/2202.06671.pdf)] [[Code](https://github.com/malteos/scincl)]
+    *Junhan Yang, Zheng Liu, Shitao Xiao, Chaozhuo Li, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie.* [[Paper](https://arxiv.org/abs/2105.02605)][[Code]](https://github.com/microsoft/GraphFormers), 2021.5
 
+1. **Neighborhood Contrastive Learning for Scientific Document Representations with Citation Embeddings.** `EMNLP 2022`
 
-- [Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks](https://arxiv.org/abs/2205.10282)
-<br>*KDD 2023*.
-<br>[[PDF](https://arxiv.org/abs/2205.10282)] [[Code](https://github.com/PeterGriffinJin/Heterformer)]
-<!-- <br>Bowen Jin, Yu Zhang, Qi Zhu, Jiawei Han. -->
+    *Junhan Yang, Zheng Liu, Shitao Xiao, Chaozhuo Li, Defu Lian, Sanjay Agrawal, Amit Singh, Guangzhong Sun, Xing Xie.* [[Paper](https://arxiv.org/pdf/2202.06671.pdf)][[Code]](https://github.com/malteos/scincl), 2022.2
 
+1. **Heterformer: Transformer-based Deep Node Representation Learning on Heterogeneous Text-Rich Networks.** `KDD 2023`
 
-- [Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks](https://openreview.net/pdf?id=2YQrqe4RNv)
-<br>*ICLR 2023*.
-<br>[[PDF](https://openreview.net/pdf?id=2YQrqe4RNv)] [[Code](https://github.com/PeterGriffinJin/Edgeformers)]
-<!-- <br>Bowen Jin, Yu Zhang, Yu Meng, Jiawei Han. -->
+    *Bowen Jin, Yu Zhang, Qi Zhu, Jiawei Han.* [[Paper](https://arxiv.org/abs/2205.10282)][[Code]](https://github.com/PeterGriffinJin/Heterformer), 2022.5
+
+1. **Edgeformers: Graph-Empowered Transformers for Representation Learning on Textual-Edge Networks.** `ICLR 2023`
+
+    *Bowen Jin, Yu Zhang, Yu Meng, Jiawei Han.* [[Paper](https://openreview.net/pdf?id=2YQrqe4RNv)][[Code]](https://github.com/PeterGriffinJin/Edgeformers), 2023.1
 
 
 ## Pretraining
 
-- [LinkBERT: Pretraining Language Models with Document Links](https://arxiv.org/pdf/2203.15827.pdf)
-<br>*ACL 2022*.
-<br>[[PDF](https://arxiv.org/pdf/2203.15827.pdf)] [[Code](https://github.com/michiyasunaga/LinkBERT)]
-<!-- <br>Michihiro Yasunaga, Jure Leskovec, Percy Liang. -->
+1. **LinkBERT: Pretraining Language Models with Document Links.** `ACL 2022`
 
+    *Michihiro Yasunaga, Jure Leskovec, Percy Liang.* [[Paper](https://arxiv.org/pdf/2203.15827.pdf)][[Code]](https://github.com/michiyasunaga/LinkBERT), 2022.3
 
-- [DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)
-<br>*NeurIPs 2022*.
-<br>[[PDF](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)] [[Code](https://github.com/michiyasunaga/dragon)]
-<!-- <br>Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec. -->
+1. **DRAGON: Deep Bidirectional Language-Knowledge Graph Pretraining.** `NeurIPs 2022`
 
+    *Michihiro Yasunaga, Antoine Bosselut, Hongyu Ren, Xikun Zhang, Christopher D. Manning, Percy Liang, Jure Leskovec.* [[Paper](https://cs.stanford.edu/~myasu/papers/dragon_neurips22.pdf)][[Code]](https://github.com/michiyasunaga/dragon), 2022.10
 
-- [Patton: Language Model Pretraining on Text-rich Networks](https://arxiv.org/abs/2305.12268)
-<br>*ACL 2023*.
-<br>[[PDF](https://arxiv.org/abs/2305.12268)] [[Code](https://github.com/PeterGriffinJin/Patton)]
-<!-- <br>Bowen Jin, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han. -->
+1. **Patton: Language Model Pretraining on Text-rich Networks.** `ACL 2023`
 
+    *Bowen Jin, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.* [[Paper](https://arxiv.org/abs/2305.12268)][[Code]](https://github.com/PeterGriffinJin/Patton), 2023.5
 
-- [Graph-Aware Language Model Pre-Training on a Large Graph
-Corpus Can Help Multiple Graph Applications](https://arxiv.org/pdf/2306.02592.pdf)
-<br>*KDD 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2306.02592.pdf)]
-<!-- <br>Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi. -->
+1. **Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications.** `KDD 2023`
 
+    *Han Xie, Da Zheng, Jun Ma, Houyu Zhang, Vassilis N. Ioannidis, Xiang Song, Qing Ping, Sheng Wang, Carl Yang, Yi Xu, Belinda Zeng, Trishul Chilimbi.* [[Paper](https://arxiv.org/pdf/2306.02592.pdf)], 2023.6
 
 
 ## Efficiency & Model distillation
-- [Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs](https://arxiv.org/abs/2304.10668)
-<br>*PKDD 2023*.
-<br>[[PDF](https://arxiv.org/abs/2304.10668)]
-<!-- <br>C. Mavromatis, V. N. Ioannidis, S. Wang, D. Zheng, S. Adeshina, J. Ma, H. Zhao, C. Faloutsos, G. Karypis. -->
 
+1. **Efficient and effective training of language and graph neural network models.** `AAAI 2023`
 
-- [Efficient and effective training of language and graph neural network models](https://arxiv.org/abs/2206.10781)
-<br>*AAAI 2023*.
-<br>[[PDF](https://arxiv.org/abs/2206.10781)] [[Code]()]
-<!-- <br>Vassilis N Ioannidis, Xiang Song, Da Zheng, Houyu Zhang, Jun Ma, Yi Xu, Belinda Zeng, Trishul Chilimbi, George Karypis. -->
+    *Vassilis N Ioannidis, Xiang Song, Da Zheng, Houyu Zhang, Jun Ma, Yi Xu, Belinda Zeng, Trishul Chilimbi, George Karypis.* [[Paper](https://arxiv.org/abs/2206.10781)], 2022.6
 
+1. **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs.** `PKDD 2023`
 
-- [Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs](https://arxiv.org/pdf/2304.10668.pdf)
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2304.10668.pdf)] [[Code](https://github.com/cmavro/GRAD)]
+    *C. Mavromatis, V. N. Ioannidis, S. Wang, D. Zheng, S. Adeshina, J. Ma, H. Zhao, C. Faloutsos, G. Karypis.* [[Paper](https://arxiv.org/abs/2304.10668)], 2023.4
 
 
 ## Classification
-- [Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification](https://yuzhimanhua.github.io/papers/www22zhang.pdf)
-<br>*WWW 2022*.
-<br>[[PDF](https://yuzhimanhua.github.io/papers/www22zhang.pdf)] [[Code](https://github.com/yuzhimanhua/MICoL)]
-<!-- <br>Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, Jiawei Han. -->
 
+1. **Node Feature Extraction by Self-Supervised Multi-Scale Neighborhood Prediction.** `ICLR 2022`
 
-- [Learning on Large-scale Text-attributed graphs via variational inference](https://openreview.net/pdf?id=q0nmYciuuZN)
-<br>*ACL 2023*.
-<br>[[PDF](https://openreview.net/pdf?id=q0nmYciuuZN)] [[Code](https://github.com/AndyJZhao/GLEM)]
-<!-- <br>Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang. -->
+    *Eli Chien, Wei-Cheng Chang, Cho-Jui Hsieh, Hsiang-Fu Yu, Jiong Zhang, Olgica Milenkovic, Inderjit S Dhillon.* [[Paper](https://arxiv.org/pdf/2111.00064.pdf)][[Code](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt)], 2021.11
 
+1. **Metadata-Induced Contrastive Learning for Zero-Shot Multi-Label Text Classification.** `WWW 2022`
 
-- [Node Feature Extraction by Self-Supervised Multi-Scale Neighborhood Prediction](https://arxiv.org/pdf/2111.00064.pdf)
-<br>*ICLR 2022*.
-<br>[[PDF](https://arxiv.org/pdf/2111.00064.pdf)] [[Code](https://github.com/amzn/pecos/tree/mainline/examples/giant-xrt)]
+    *Yu Zhang, Zhihong Shen, Chieh-Han Wu, Boya Xie, Junheng Hao, Ye-Yi Wang, Kuansan Wang, Jiawei Han.* [[Paper](https://yuzhimanhua.github.io/papers/www22zhang.pdf)][[Code](https://github.com/yuzhimanhua/MICoL)], 2022.2
 
+1. **Learning on Large-scale Text-attributed graphs via variational inference.** `ICLR 2023`
 
-- [Explanations as Features: LLM-Based Features for Text-Attributed Graphs](https://arxiv.org/pdf/2305.19523.pdf)
-<br>*preprint 2023*.
-<br>[[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)]
+    *Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang.* [[Paper](https://openreview.net/pdf?id=q0nmYciuuZN)][[Code](https://github.com/AndyJZhao/GLEM)], 2023.1
+
+1. **Explanations as Features: LLM-Based Features for Text-Attributed Graphs.** `preprint`
+
+    *Xiaoxin He, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi.* [[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)], 2023.5
 
 
 ## Question Answering
-- [GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering](https://cs.stanford.edu/~myasu/papers/greaselm_iclr22.pdf)
-<br>*ICLR 2022*.
-<br>[[PDF](https://cs.stanford.edu/~myasu/papers/greaselm_iclr22.pdf)] [[Code](https://github.com/snap-stanford/GreaseLM)]
-<!-- <br>Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D Manning and Jure Leskovec. -->
+
+1. **GreaseLM: Graph Reasoning Enhanced Language Models for Question Answering.** `ICLR 2022`
+
+    *Xikun Zhang, Antoine Bosselut, Michihiro Yasunaga, Hongyu Ren, Percy Liang, Christopher D Manning and Jure Leskovec.* [[PDF](https://cs.stanford.edu/~myasu/papers/greaselm_iclr22.pdf)] [[Code](https://github.com/snap-stanford/GreaseLM)], 2022.1
 
 
 ## Contribution
