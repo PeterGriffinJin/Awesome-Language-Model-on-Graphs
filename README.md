@@ -26,6 +26,13 @@ A curated list of papers and resources about language model on graphs.
 ### Text-attributed network
 - Microsoft Academic network (MAG)
 <br>Networks from 19 domains including CS, Mathematics, Geology, etc.
+<br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Data](https://zenodo.org/record/7611544)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_mag.ipynb)]
+- Amazon Items
+<br>Networks from 24 domains including Home, Clothing, Sports, etc.
+<br>[[PDF](https://arxiv.org/pdf/1602.01585.pdf)] [[Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_amazon.ipynb)]
+
+<!-- - Microsoft Academic network (MAG)
+<br>Networks from 19 domains including CS, Mathematics, Geology, etc.
 <br>Nodes: papers/authors/venues; Edges: citation/co-authorship/publish-in.
 <br>Text: paper title, paper abstract on nodes.
 <br>[[PDF](https://arxiv.org/abs/2302.03341)] [[Data](https://zenodo.org/record/7611544)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_mag.ipynb)]
@@ -33,7 +40,7 @@ A curated list of papers and resources about language model on graphs.
 <br>Networks from 24 domains including Home, Clothing, Sports, etc.
 <br>Nodes: items; Edges: co-purchase/co-viewed/same-brand.
 <br>Text: item title and description on nodes.
-<br>[[PDF](https://arxiv.org/pdf/1602.01585.pdf)] [[Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_amazon.ipynb)]
+<br>[[PDF](https://arxiv.org/pdf/1602.01585.pdf)] [[Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_amazon.ipynb)] -->
 
 
 ## Basic
