@@ -12,11 +12,11 @@ A curated list of papers and resources about language model on graphs.
   - [Basic](#basic)
   - [Representation Learning](#representation-learning)
   - [Pretraining](#pretraining)
-  - [Efficiency & Model distillation](#Efficiency-&-Model-distillation)
+  - [Efficiency & Model distillation](#efficiency-&-model-distillation)
   - [Node Classification](#node-classification)
   - [Graph Classification](#graph-classification)
   - [Question Answering](#question-answering)
-  - [Graph As Tools](#graph-as-tool)
+  - [Graph As Tools](#graph-as-tools)
   - [Contribution](#contribution)
 
 ### Keywords Convention
