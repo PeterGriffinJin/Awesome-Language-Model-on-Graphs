@@ -29,10 +29,14 @@ A curated list of papers and resources about language model on graphs.
 
 
 ## Representation Learning
-- [SPECTER: Document-level Representation Learning using Citation-informed Transformers](https://arxiv.org/abs/2004.07180)
-<br>*ACL 2020*.
+<!-- - [](https://arxiv.org/abs/2004.07180)
+<br>**.
 <br>[[PDF](https://arxiv.org/abs/2004.07180)]
-<!-- <br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld. -->
+<br>Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld. -->
+
+1. **SPECTER: Document-level Representation Learning using Citation-informed Transformers.** `ACL 2020`
+
+    *Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, Daniel S. Weld.* [[Paper](https://arxiv.org/abs/2004.07180)], 2020.4
 
 - [GraphFormers: GNN-nested Transformers for
 Representation Learning on Textual Graph](https://arxiv.org/abs/2105.02605)
