@@ -1,6 +1,10 @@
 # Awesome-Language-Model-on-Graphs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of papers and resources about language model on graphs.
 
+<p align="center">
+    <img src="overview.pdf" width="90%" style="align:center;"/>
+</p>
+
 ## Contents
 - [Awesome-LM-on-Graphs](#awesome-lm-on-graphs)
   - [Contents](#contents)
