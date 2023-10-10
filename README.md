@@ -2,7 +2,7 @@
 A curated list of papers and resources about language model on graphs.
 
 <p align="center">
-    <img src="overview.pdf" width="90%" style="align:center;"/>
+    <img src="./overview.svg" width="90%" style="align:center;"/>
 </p>
 
 ## Contents
