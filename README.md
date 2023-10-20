@@ -158,40 +158,41 @@ A curated list of papers and resources about language model on graphs.
 
    *Jianan Zhao, Meng Qu, Chaozhuo Li, Hao Yan, Qian Liu, Rui Li, Xing Xie, Jian Tang.* [[Paper](https://openreview.net/pdf?id=q0nmYciuuZN)][[Code](https://github.com/AndyJZhao/GLEM)], 2023.1, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
-6. **Explanations as Features: LLM-Based Features for Text-Attributed Graphs.** `preprint`
+6. **The Effect of Metadata on Scientific Literature Tagging: A Cross-Field Cross-Model Study.** `WWW 2023`
+
+    *Yu Zhang, Bowen Jin, Qi Zhu, Yu Meng, Jiawei Han.* [[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)] [Data](https://zenodo.org/records/7611544)], 2023.2, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
+7. **Explanations as Features: LLM-Based Features for Text-Attributed Graphs.** `preprint`
 
    *Xiaoxin He, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi.* [[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)], 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue)![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
 
-7. **Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting.** `SIGIR 2023`
+8. **Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting.** `SIGIR 2023`
 
     *Zhihao Wen, Yuan Fang.* [[PDF](https://arxiv.org/abs/2305.03324)], 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
-8. **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs.** `preprint`
+9. **Exploring the Potential of Large Language Models (LLMs) in Learning on Graphs.** `preprint`
 
    *Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin, Wenqi Fan, Hui Liu, Jiliang Tang.* [[PDF](https://arxiv.org/abs/2307.03393)] [[Code](https://github.com/CurryTang/Graph-LLM)], 2023.7, ![](https://img.shields.io/badge/EncoderOnly-blue)![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
 
-9. **Natural Language is All a Graph Needs.** `preprint`
+10. **Natural Language is All a Graph Needs.** `preprint`
 
    *Ruosong Ye, Caiqi Zhang, Runhui Wang, Shuyuan Xu, Yongfeng Zhang.* [[PDF](https://arxiv.org/abs/2308.07134)], 2023.8, ![](https://img.shields.io/badge/DecoderOnly-blue)![](https://img.shields.io/badge/EncoderDecoder-blue) ![](https://img.shields.io/badge/LLM-red)
 
-10. **SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning.** `preprint`
+11. **SimTeG: A Frustratingly Simple Approach Improves Textual Graph Learning.** `preprint`
 
     *Keyu Duan, Qian Liu, Tat-Seng Chua, Shuicheng Yan, Wei Tsang Ooi, Qizhe Xie, Junxian He.* [[PDF](https://arxiv.org/pdf/2308.02565.pdf)] [[Code](https://github.com/vermouthdky/SimTeG)], 2023.8, ![](https://img.shields.io/badge/Encoder-blue) ![](https://img.shields.io/badge/Medium-red)
 
-11. **Can LLMs Effectively Leverage Graph Structural Information: When and Why.** `preprint`
+12. **Can LLMs Effectively Leverage Graph Structural Information: When and Why.** `preprint`
 
     *Jin Huang, Xingjian Zhang, Qiaozhu Mei, Jiaqi Ma.* [[PDF](https://arxiv.org/abs/2309.16595)] [[Code](https://github.com/TRAIS-Lab/LLM-Structured-Data)], 2023.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-12. **Label-free Node Classification on Graphs with Large Language Models (LLMS).** `preprint`
+13. **Label-free Node Classification on Graphs with Large Language Models (LLMS).** `preprint`
 
     *Zhikai Chen, Haitao Mao, Hongzhi Wen, Haoyu Han, Wei Jin, Haiyang Zhang, Hui Liu, Jiliang Tang.* [[PDF](https://arxiv.org/pdf/2310.04668.pdf)], 2023.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-13. **GraphText: Graph Reasoning in Text Space.** `preprint`
+14. **GraphText: Graph Reasoning in Text Space.** `preprint`
     
     *Jianan Zhao, Le Zhuo, Yikang Shen, Meng Qu, Kai Liu, Michael Bronstein, Zhaocheng Zhu, Jian Tang* [[PDF](https://arxiv.org/abs/2310.01089)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
-
-
-
 
 
 ## Molecule (Graphs)
