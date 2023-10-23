@@ -168,10 +168,6 @@ A curated list of papers and resources about language model on graphs.
 
     *Yu Zhang, Bowen Jin, Qi Zhu, Yu Meng, Jiawei Han.* [[PDF](https://arxiv.org/abs/2302.03341)] [[Code](https://github.com/yuzhimanhua/MAPLE)] [Data](https://zenodo.org/records/7611544)], 2023.2, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
-7. **Explanations as Features: LLM-Based Features for Text-Attributed Graphs.** `preprint`
-
-   *Xiaoxin He, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi.* [[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)], 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue)![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
-
 8. **Augmenting Low-Resource Text Classification with Graph-Grounded Pre-training and Prompting.** `SIGIR 2023`
 
     *Zhihao Wen, Yuan Fang.* [[PDF](https://arxiv.org/abs/2305.03324)], 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
@@ -324,7 +320,11 @@ A curated list of papers and resources about language model on graphs.
 
 ## Data Augmentation
 
-1. **Empower Text-Attributed Graphs Learning with Large Language Models (LLMs).** `preprint`
+1. **Explanations as Features: LLM-Based Features for Text-Attributed Graphs.** `preprint`
+
+   *Xiaoxin He, Xavier Bresson, Thomas Laurent, Adam Perold, Yann LeCun, Bryan Hooi.* [[PDF](https://arxiv.org/pdf/2305.19523.pdf)] [[Code](https://github.com/XiaoxinHe/TAPE)], 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue)![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
+
+2. **Empower Text-Attributed Graphs Learning with Large Language Models (LLMs).** `preprint`
 
     *Jianxiang Yu, Yuxiang Ren, Chenghua Gong, Jiaqi Tan, Xiang Li, Xuecang Zhang.* [[PDF](https://arxiv.org/pdf/2310.09872.pdf)], 2023.10, ![](https://img.shields.io/badge/EncoderOnly-blue)![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)![](https://img.shields.io/badge/LLM-red)
 
