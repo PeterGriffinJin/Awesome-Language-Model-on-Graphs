@@ -20,6 +20,7 @@ A curated list of papers and resources about language model on graphs.
   - [Molecule (Graphs)](#molecule-graphs)
   - [Language Modeling](#language-modeling)
   - [Question Answering](#question-answering)
+  - [Search](#search)
   - [Text Generation](#text-generation)
   - [Graph As Tools](#graph-as-tools)
   - [Model Efficiency](#model-efficiency)
@@ -304,6 +305,17 @@ A curated list of papers and resources about language model on graphs.
 7. **ChatKBQA: A Generate-then-Retrieve Framework for Knowledge Base Question Answering with Fine-tuned Large Language Models.** `preprint`
 
     *Haoran Luo, Haihong E, Zichen Tang, Shiyao Peng, Yikai Guo, Wentai Zhang, Chenghao Ma, Guanting Dong, Meina Song, Wei Lin.* [[PDF](https://arxiv.org/pdf/2310.08975.pdf)] [[Code](https://github.com/lhrlab/chatkbqa)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+## Search
+
+1. **TextGNN: Improving Text Encoder via Graph Neural Network in Sponsored Search.** `WWW 2021`
+
+    *Jason Yue Zhu, Yanling Cui, Yuming Liu, Hao Sun, Xue Li, Markus Pelger, Tianqi Yang, Liangjie Zhang, Ruofei Zhang, Huasha Zhao.* [[PDF](https://arxiv.org/pdf/2101.06323.pdf)] [[Code](https://github.com/microsoft/TextGNN)], 2022.1
+
+1. **AdsGNN: Behavior-Graph Augmented Relevance Modeling in Sponsored Search.** `SIGIR 2021`
+
+    *Chaozhuo Li, Bochen Pang, Yuming Liu, Hao Sun, Zheng Liu, Xing Xie, Tianqi Yang, Yanling Cui, Liangjie Zhang, Qi Zhang.* [[PDF](https://arxiv.org/pdf/2104.12080.pdf)] [[Code]()], 2022.4
+
 
 ## Text Generation
 
