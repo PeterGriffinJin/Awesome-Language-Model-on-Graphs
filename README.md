@@ -344,7 +344,7 @@ A curated list of papers and resources about language model on graphs.
 
    *Jiawei Zhang.* [[PDF](https://arxiv.org/abs/2304.11116)] [[Code](https://github.com/jwzhanggy/Graph_Toolformer)], 2023.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-1. **Integrating Graphs with Large Language Models: Methods and Prospects** `preprint`
+1. **Integrating Graphs with Large Language Models: Methods and Prospects** `IEEE Intelligent Systems`
 
    *Shirui Pan, Yizhen Zheng, Yixin Liu.* [[PDF](https://arxiv.org/abs/2310.05499)], 2023.10
 
