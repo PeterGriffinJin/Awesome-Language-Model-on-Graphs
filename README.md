@@ -55,6 +55,12 @@ A curated list of papers and resources about language model on graphs.
 <br>Text: item title and description on nodes.
 <br>[[PDF](https://arxiv.org/pdf/1602.01585.pdf)] [[Data](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html)] [[Preprocessing Code](https://github.com/PeterGriffinJin/Patton/blob/main/data_process/process_amazon.ipynb)] -->
 
+<!-- ## Perspectives
+
+1. **Integrating Graphs with Large Language Models: Methods and Prospects** `preprint`
+
+   *Shirui Pan, Yizhen Zheng, Yixin Liu.* [[PDF](https://arxiv.org/abs/2310.05499)], 2023.10 -->
+
 ## Basic
 
 1. **Can Language Models Solve Graph Problems in Natural Language?** `preprint`
@@ -236,6 +242,11 @@ A curated list of papers and resources about language model on graphs.
 5. **Multi-modal Molecule Structure-text Model for Text-based Retrieval and Editing.** `preprint`
 
     *hengchao Liu, Weili Nie, Chengpeng Wang, Jiarui Lu, Zhuoran Qiao, Ling Liu, Jian Tang, Chaowei Xiao, Anima Anandkumar* [[PDF](https://arxiv.org/pdf/2212.10789.pdf)], 2022.10, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
+1. **ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts.** `ICML 2023`
+
+    *Minghao Xu, Xinyu Yuan, Santiago Miret, Jian Tang.* [[PDF](https://arxiv.org/pdf/2301.12040.pdf)] [[Code](https://github.com/DeepGraphLearning/ProtST)], 2023.1, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
 6. **GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning.** `preprint`
 
    *Haiteng Zhao, Shengchao Liu, Chang Ma, Hannan Xu, Jie Fu, Zhi-Hong Deng, Lingpeng Kong, Qi Liu.* [[PDF](https://arxiv.org/abs/2306.13089)] [[Code](https://github.com/zhao-ht/GIMLET)], 2023.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
@@ -266,6 +277,7 @@ A curated list of papers and resources about language model on graphs.
 13. **ReLM: Leveraging Language Models for Enhanced Chemical Reaction Prediction.** `EMNLP 2023`
 
     *Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang.* [[PDF](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/relm)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 
 
@@ -331,6 +343,10 @@ A curated list of papers and resources about language model on graphs.
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
 
    *Jiawei Zhang.* [[PDF](https://arxiv.org/abs/2304.11116)] [[Code](https://github.com/jwzhanggy/Graph_Toolformer)], 2023.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+1. **Integrating Graphs with Large Language Models: Methods and Prospects** `preprint`
+
+   *Shirui Pan, Yizhen Zheng, Yixin Liu.* [[PDF](https://arxiv.org/abs/2310.05499)], 2023.10
 
 
 ## Model Efficiency
