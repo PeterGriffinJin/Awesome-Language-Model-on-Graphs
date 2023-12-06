@@ -346,7 +346,7 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     *Tao Zou, Le Yu, Yifei HUANG, Leilei Sun, Bowen Du.* [[PDF](https://arxiv.org/pdf/2310.12580.pdf)] [[Code](https://github.com/Hope-Rita/THLM)], 2023.10, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
 
-## Text-Captioned Graphs (Molecules)
+## Text-Paired Graphs (Molecules)
 
 ### <img src="./star.svg" width="15" height="15" /> Datasets
 Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783).
