@@ -2,9 +2,9 @@
 
 A curated list of papers and resources about large language models (LLMs) on graphs based on our survey paper: [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783). 
 
-<p align="center">
+<!-- <p align="center">
     <img src="./overview.svg" width="90%" style="align:center;"/>
-</p>
+</p> -->
 
 ## Why LLMs on graphs?
 
