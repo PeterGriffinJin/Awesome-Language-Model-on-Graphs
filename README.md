@@ -260,6 +260,11 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jing Zhu, Xiang Song, Vassilis N. Ioannidis, Danai Koutra, Christos Faloutsos.* [[PDF](https://arxiv.org/abs/2309.13885)], 2023.9, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
+10. **Wikiformer: Pre-training with Structured Information of Wikipedia for Ad-hoc Retrieval.** `preprint`
+
+    *Weihang Su, Qingyao Ai, Xiangsheng Li, Jia Chen, Yiqun Liu, Xiaolong Wu, Shengluan Hou.* [[PDF](https://arxiv.org/abs/2312.10661)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
+
 
 ### <img src="./star.svg" width="15" height="15" /> LLM as Encoder
 #### Optimization
