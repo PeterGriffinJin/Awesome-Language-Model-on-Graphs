@@ -4,6 +4,8 @@ A curated list of papers and resources about large language models (LLMs) on gra
 
 **This repo will be continuously updated. Don't forget to star <img src="./star.svg" width="15" height="15" /> it and keep tuned!**
 
+**Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
+
 <p align="center">
     <img src="./intro.svg" width="90%" style="align:center;"/>
 </p>
