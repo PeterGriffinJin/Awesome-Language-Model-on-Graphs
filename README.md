@@ -275,6 +275,9 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Weihang Su, Qingyao Ai, Xiangsheng Li, Jia Chen, Yiqun Liu, Xiaolong Wu, Shengluan Hou.* [[PDF](https://arxiv.org/abs/2312.10661)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
+11. **WalkLM: A Uniform Language Model Fine-tuning Framework for Attributed Graph Embedding.** `NeurIPs 2023`
+
+    *Yanchao Tan, Zihao Zhou, Hang Lv, Weiming Liu, Carl Yang.* [[PDF](https://openreview.net/pdf?id=ZrG8kTbt70)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
 
 ### <img src="./star.svg" width="15" height="15" /> LLM as Encoder
