@@ -29,7 +29,7 @@ In this paper, we provide a comprehensive review of scenarios and techniques rel
     - [Direct Answering](#-direct-answering)
     - [Heuristic Reasoning](#-heuristic-reasoning)
     - [Algorithmic Reasoning](#-algorithmic-reasoning)
-  - [Text-Rich Graphs](#text-rich-graphs)
+  - [Text-Attributed Graphs](#text-attributed-graphs)
     - [Datasets](#datasets-1)
     - [LLM as Predictor (Node)](#-llm-as-predictor-node)
       - [Graph As Sequence (Node)](#graph-as-sequence-node)
@@ -145,7 +145,7 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     *Jiawei Zhang.* [[PDF](https://arxiv.org/abs/2304.11116)] [[Code](https://github.com/jwzhanggy/Graph_Toolformer)], 2023.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
-## Text-Rich Graphs
+## Text-Attributed Graphs
 
 ### <img src="./star.svg" width="15" height="15" /> Datasets
 Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783).
