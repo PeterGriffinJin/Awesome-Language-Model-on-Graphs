@@ -66,15 +66,15 @@ In this paper, we provide a comprehensive review of scenarios and techniques rel
 
     *Shirui Pan, Linhao Luo, Yufei Wang, Chen Chen, Jiapu Wang, Xindong Wu* [[PDF](https://arxiv.org/pdf/2306.08302.pdf)], 2023.6
 
-1. **Integrating Graphs with Large Language Models: Methods and Prospects** `preprint`
+2. **Integrating Graphs with Large Language Models: Methods and Prospects** `preprint`
     
     *Shirui Pan, Yizhen Zheng, Yixin Liu* [[PDF](https://arxiv.org/pdf/2310.05499.pdf)], 2023.10
 
-1. **Towards graph foundation models: A survey and beyond.** `preprint`
+3. **Towards graph foundation models: A survey and beyond.** `preprint`
 
     *Jiawei Liu, Cheng Yang, Zhiyuan Lu, Junze Chen, Yibo Li, Mengmei Zhang, Ting Bai, Yuan Fang, Lichao Sun, Philip S. Yu, Chuan Shi.* [[PDF](https://arxiv.org/pdf/2310.11829.pdf)], 2023.10
 
-1. **A Survey of Graph Meets Large Language Model: Progress and Future Directions.** `preprint`
+4. **A Survey of Graph Meets Large Language Model: Progress and Future Directions.** `preprint`
 
     *Yuhan Li, Zhixun Li, Peisong Wang, Jia Li, Xiangguo Sun, Hong Cheng, Jeffrey Xu Yu.* [[PDF](https://arxiv.org/pdf/2311.12399.pdf)], 2023.11
 
@@ -137,6 +137,10 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 5. **Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning.** `preprint`
 
     *Linhao Luo, Yuan-Fang Li, Gholamreza Haffari, Shirui Pan.* [[PDF](https://arxiv.org/abs/2310.01061)] [[Code](https://github.com/RManLuo/reasoning-on-graphs)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+6. **Thought Propagation: An Analogical Approach to Complex Reasoning with Large Language Models.** `preprint`
+
+    *Junchi Yu, Ran He, Rex Ying.* [[PDF](https://arxiv.org/abs/2310.03965)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
 ### <img src="./star.svg" width="15" height="15" /> Algorithmic Reasoning
