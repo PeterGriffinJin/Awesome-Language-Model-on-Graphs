@@ -203,6 +203,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jinhao Jiang, Kun Zhou, Wayne Xin Zhao, Yaliang Li, Ji-Rong Wen.* [[PDF](https://arxiv.org/abs/2401.00158)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
+12. **Chain of History: Learning and Forecasting with LLMs for Temporal Knowledge Graph Completion.** `preprint`
+
+    *Ruilin Luo, Tianle Gu, Haoling Li, Junzhe Li, Zicheng Lin, Jiayi Li, Yujiu Yang.* [[PDF]([pdf link])] [[Code](https://arxiv.org/abs/2401.06072)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 #### Graph-Empowered LLM (Node)
 
