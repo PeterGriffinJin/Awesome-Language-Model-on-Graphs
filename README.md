@@ -142,6 +142,9 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Junchi Yu, Ran He, Rex Ying.* [[PDF](https://arxiv.org/abs/2310.03965)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+7. **Large Language Models Can Learn Temporal Reasoning.** `preprint`
+
+    *Siheng Xiong, Ali Payani, Ramana Kompella, Faramarz Fekri.* [[PDF](https://arxiv.org/abs/2401.06853)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 ### <img src="./star.svg" width="15" height="15" /> Algorithmic Reasoning
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
@@ -238,7 +241,9 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Bowen Jin, Wentao Zhang, Yu Zhang, Yu Meng, Xinyang Zhang, Qi Zhu, Jiawei Han.* [[PDF](https://arxiv.org/abs/2305.12268)][[Code]](https://github.com/PeterGriffinJin/Patton), 2023.5, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
+8. **Graph Language Models.** `preprint`
 
+    *Moritz Plenz, Anette Frank.* [[PDF](https://arxiv.org/abs/2401.07105)], 2024.1, ![](https://img.shields.io/badge/EncoderDecoder-blue) ![](https://img.shields.io/badge/Medium-red)
 
 #### Graph-Aware LLM Finetuning
 
@@ -344,7 +349,11 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 5.  **A Comprehensive Study on Text-attributed Graphs: Benchmarking and Rethinking.** `NeurIPS 2023`  
    
     *Hao Yan, Chaozhuo Li, Ruosong Long, Chao Yan, Jianan Zhao, Wenwen Zhuang, Jun Yin, Peiyan Zhang, Weihao Han, Hao Sun, Weiwei Deng, Qi Zhang, Lichao Sun, Xing Xie, Senzhang Wang* [[PDF](https://openreview.net/pdf?id=m2mbfoSuJ1)] [[Code](https://github.com/sktsherlock/TAG-Benchmark)], 2023.11, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
-    
+
+6. **Distilling Event Sequence Knowledge From Large Language Models.** `preprint`
+
+    *Somin Wadhwa, Oktie Hassanzadeh, Debarun Bhattacharjya, Ken Barker, Jian Ni.* [[PDF](https://arxiv.org/abs/2401.07237)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 #### Efficiency
 1. **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs.** `PKDD 2023`
 
