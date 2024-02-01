@@ -7,7 +7,7 @@ A curated list of papers and resources about large language models (LLMs) on gra
 **Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
 
 <p align="center">
-    <img src="./intro.svg" width="90%" style="align:center;"/>
+    <img src="./fig/intro.svg" width="90%" style="align:center;"/>
 </p>
 
 ## Why LLMs on graphs?
@@ -81,14 +81,14 @@ In this paper, we provide a comprehensive review of scenarios and techniques rel
 
 ## Pure Graphs
 
-### <img src="./star.svg" width="15" height="15" /> Datasets
+### <img src="./fig/star.svg" width="15" height="15" /> Datasets
 Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783).
 <p align="center">
-    <img src="./puregraph-data.jpg" width="90%" style="align:center;"/>
+    <img src="./fig/puregraph-data.jpg" width="90%" style="align:center;"/>
 </p>
 
 
-### <img src="./star.svg" width="15" height="15" /> Direct Answering
+### <img src="./fig/star.svg" width="15" height="15" /> Direct Answering
 1. **Can Language Models Solve Graph Problems in Natural Language?** `preprint`
 
     *Heng Wang, Shangbin Feng, Tianxing He, Zhaoxuan Tan, Xiaochuang Han, Yulia Tsvetkov.* [[PDF](https://browse.arxiv.org/pdf/2305.10037.pdf)] [[Code](https://github.com/Arthur-Heng/NLGraph)], 2023.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
@@ -117,7 +117,7 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Debarati Das, Ishaan Gupta, Jaideep Srivastava, Dongyeop Kang* [[PDF](https://arxiv.org/pdf/2311.09862.pdf)] [[Code]()], 2023.11, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-### <img src="./star.svg" width="15" height="15" /> Heuristic Reasoning
+### <img src="./fig/star.svg" width="15" height="15" /> Heuristic Reasoning
 1. **StructGPT: A General Framework for Large Language Model to Reason over Structured Data.** `preprint`
 
     *Jinhao Jiang, Kun Zhou, Zican Dong, Keming Ye, Wayne Xin Zhao, Ji-Rong Wen.* [[PDF](https://arxiv.org/abs/2305.09645)] [[Code](https://github.com/RUCAIBox/StructGPT)], 2023.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
@@ -151,7 +151,7 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     *Siheng Xiong, Ali Payani, Ramana Kompella, Faramarz Fekri.* [[PDF](https://arxiv.org/abs/2401.06853)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
-### <img src="./star.svg" width="15" height="15" /> Algorithmic Reasoning
+### <img src="./fig/star.svg" width="15" height="15" /> Algorithmic Reasoning
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
 
     *Jiawei Zhang.* [[PDF](https://arxiv.org/abs/2304.11116)] [[Code](https://github.com/jwzhanggy/Graph_Toolformer)], 2023.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
@@ -159,13 +159,13 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
 ## Text-Attributed Graphs
 
-### <img src="./star.svg" width="15" height="15" /> Datasets
+### <img src="./fig/star.svg" width="15" height="15" /> Datasets
 Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783).
 <p align="center">
-    <img src="./node-data.jpg" width="90%" style="align:center;"/>
+    <img src="./fig/node-data.jpg" width="90%" style="align:center;"/>
 </p>
 
-### <img src="./star.svg" width="15" height="15" /> LLM as Predictor (Node)
+### <img src="./fig/star.svg" width="15" height="15" /> LLM as Predictor (Node)
 #### Graph As Sequence (Node)
 1. **MATCH: Metadata-Aware Text Classification in A Large Hierarchy.** `WWW 2021`
 
@@ -305,7 +305,7 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     *Yanchao Tan, Zihao Zhou, Hang Lv, Weiming Liu, Carl Yang.* [[PDF](https://openreview.net/pdf?id=ZrG8kTbt70)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
 
-### <img src="./star.svg" width="15" height="15" /> LLM as Encoder
+### <img src="./fig/star.svg" width="15" height="15" /> LLM as Encoder
 #### Optimization
 
 1. **GNN-LM: Language Modeling based on Global Contexts via GNN.** `ICLR 2022`
@@ -375,7 +375,7 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Rui Xue, Xipeng Shen, Ruozhou Yu, Xiaorui Liu.* [[PDF](https://arxiv.org/abs/2312.04737)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
-### <img src="./star.svg" width="15" height="15" /> LLM as Aligner (Node)
+### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
 #### Prediction Alignment
 
 1. **Minimally-Supervised Structure-Rich Text Categorization via Learning on Text-Rich Networks.** `WWW 2021`
@@ -408,13 +408,13 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
 ## Text-Paired Graphs (Molecules)
 
-### <img src="./star.svg" width="15" height="15" /> Datasets
+### <img src="./fig/star.svg" width="15" height="15" /> Datasets
 Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783).
 <p align="center">
-    <img src="./graph-data.jpg" width="90%" style="align:center;"/>
+    <img src="./fig/graph-data.jpg" width="90%" style="align:center;"/>
 </p>
 
-### <img src="./star.svg" width="15" height="15" /> LLM as Predictor (Graph)
+### <img src="./fig/star.svg" width="15" height="15" /> LLM as Predictor (Graph)
 #### Graph As Sequence
 
 
@@ -511,7 +511,7 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
 
 
-### <img src="./star.svg" width="15" height="15" /> LLM as Aligner (Graph)
+### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Graph)
 
 #### Latent Space Alignment (Graph)
 
