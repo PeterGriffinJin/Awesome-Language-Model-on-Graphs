@@ -162,6 +162,10 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Fangru Lin, Emanuele La Malfa, Valentin Hofmann, Elle Michelle Yang, Anthony Cohn, Janet B. Pierrehumbert.* [[PDF](https://arxiv.org/abs/2402.02805)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+12. **Microstructures and Accuracy of Graph Recall by Large Language Models.** `preprint`
+
+    *Yanbang Wang, Hejie Cui, Jon Kleinberg.* [[PDF](https://arxiv.org/abs/2402.11821)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 ### <img src="./fig/star.svg" width="15" height="15" /> Algorithmic Reasoning
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
 
@@ -404,6 +408,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 2. **Efficient Large Language Models Fine-Tuning On Graphs.** `preprint`
 
     *Rui Xue, Xipeng Shen, Ruozhou Yu, Xiaorui Liu.* [[PDF](https://arxiv.org/abs/2312.04737)], 2023.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
+3. **Distilling Large Language Models for Text-Attributed Graph Learning.** `preprint`
+
+    *Bo Pan, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao.* [[PDF](https://arxiv.org/abs/2402.12022)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
 #### Prediction Alignment
