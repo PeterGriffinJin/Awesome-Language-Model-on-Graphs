@@ -555,6 +555,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
    
     *Yaorui Shi, An Zhang, Enzhi Zhang, Zhiyuan Liu, Xiang Wang.* [[PDF](https://arxiv.org/pdf/2310.13590.pdf)] [[Code](https://github.com/syr-cn/relm)], 2023.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+5. **Biomedical knowledge graph-enhanced prompt generation for large language models** `preprint`
+
+    *Karthik Soman, Peter W Rose, John H Morris, Rabia E Akbas, Brett Smith, Braian Peetoom, Catalina Villouta-Reyes, Gabriel Cerono, Yongmei Shi, Angela Rizk-Jackson, Sharat Israni, Charlotte A Nelson, Sui Huang, Sergio E Baranzini* [[PDF](https://arxiv.org/abs/2311.17330)] [[Code](https://github.com/BaranziniLab/KG_RAG)], 2023.11, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Graph)
