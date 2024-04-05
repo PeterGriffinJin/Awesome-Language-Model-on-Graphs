@@ -549,6 +549,14 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Sihang Li, Zhiyuan Liu, Yanchen Luo, Xiang Wang, Xiangnan He, Kenji Kawaguchi, Tat-Seng Chua, Qi Tian.* [[PDF](https://arxiv.org/abs/2401.13923)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+19. **MolTC: Towards Molecular Relational Modeling In Language Models** `preprint`
+
+    *Junfeng Fang, Shuai Zhang, Chang Wu, Zhengyi Yang, Zhiyuan Liu, Sihang Li, Kun Wang, Wenjie Du, Xiang Wang.* [[PDF](https://arxiv.org/abs/2402.03781)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+20. **Large Language Models are In-Context Molecule Learners** `preprint`
+
+    *Jiatong Li, Wei Liu, Zhihao Ding, Wenqi Fan, Yuqiang Li, Qing Li.* [[PDF](https://arxiv.org/abs/2403.04197)], 2024.3, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 #### Graph-Empowered LLM (Graph)
 
 1. **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries.** `EMNLP 2021`
@@ -571,6 +579,9 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Karthik Soman, Peter W Rose, John H Morris, Rabia E Akbas, Brett Smith, Braian Peetoom, Catalina Villouta-Reyes, Gabriel Cerono, Yongmei Shi, Angela Rizk-Jackson, Sharat Israni, Charlotte A Nelson, Sui Huang, Sergio E Baranzini* [[PDF](https://arxiv.org/abs/2311.17330)] [[Code](https://github.com/BaranziniLab/KG_RAG)], 2023.11, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+6. **L+M-24: Building a Dataset for Language + Molecules @ ACL 2024** `preprint`
+
+    *Carl Edwards, Qingyun Wang, Lawrence Zhao, Heng Ji* [[PDF](https://arxiv.org/abs/2403.00791)] [[Code](https://huggingface.co/language-plus-molecules)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Graph)
