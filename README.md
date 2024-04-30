@@ -445,6 +445,11 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Bo Pan, Zheng Zhang, Yifei Zhang, Yuntong Hu, Liang Zhao.* [[PDF](https://arxiv.org/abs/2402.12022)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+4. **Parameter-Efficient Tuning Large Language Models for Graph Representation Learning.** `preprint`
+
+    *Qi Zhu, Da Zheng, Xiang Song, Shichang Zhang, Bowen Jin, Yizhou Sun, George Karypis.* [[PDF](https://arxiv.org/abs/2404.18271)], 2024.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
 #### Prediction Alignment
 
