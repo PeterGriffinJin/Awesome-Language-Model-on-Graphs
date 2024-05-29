@@ -432,6 +432,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Somin Wadhwa, Oktie Hassanzadeh, Debarun Bhattacharjya, Ken Barker, Jian Ni.* [[PDF](https://arxiv.org/abs/2401.07237)], 2024.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+7. **Don't Forget to Connect! Improving RAG with Graph-based Reranking.** `preprint`
+
+    *Jialin Dong, Bahare Fatemi, Bryan Perozzi, Lin F. Yang, Anton Tsitsulin.* [[PDF](https://arxiv.org/abs/2405.18414)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 #### Efficiency
 1. **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs.** `PKDD 2023`
 
