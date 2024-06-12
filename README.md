@@ -270,6 +270,9 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jianing Wang, Junda Wu, Yupeng Hou, Yao Liu, Ming Gao, Julian McAuley.* [[PDF](https://arxiv.org/abs/2402.08785)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+17. **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs.** `preprint`
+
+    *Zijian Li, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang.* [[PDF](https://arxiv.org/abs/2406.06572)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 #### Graph-Empowered LLM (Node)
 
