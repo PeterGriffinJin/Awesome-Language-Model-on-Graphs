@@ -373,6 +373,9 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Stefan Dernbach, Khushbu Agarwal, Alejandro Zuniga, Michael Henry, Sutanay Choudhury.* [[PDF](https://arxiv.org/abs/2402.06764)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+13. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs.** `preprint 2024`
+
+    *Yi Fang, Dongzhe Fan, Sirui Ding, Ninghao Liu, Qiaoyu Tan.* [[PDF](https://arxiv.org/abs/2406.12052)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Encoder
 #### Optimization
@@ -455,6 +458,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 4. **Parameter-Efficient Tuning Large Language Models for Graph Representation Learning.** `preprint`
 
     *Qi Zhu, Da Zheng, Xiang Song, Shichang Zhang, Bowen Jin, Yizhou Sun, George Karypis.* [[PDF](https://arxiv.org/abs/2404.18271)], 2024.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+5. **Bridging Local Details and Global Context in Text-Attributed Graphs.** `preprint`
+
+    *Yaoke Wang, Yun Zhu, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang.* [[PDF](https://arxiv.org/abs/2406.12608)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
