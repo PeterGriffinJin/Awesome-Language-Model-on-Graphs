@@ -588,6 +588,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jiatong Li, Wei Liu, Zhihao Ding, Wenqi Fan, Yuqiang Li, Qing Li.* [[PDF](https://arxiv.org/abs/2403.04197)], 2024.3, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+21. **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment** `preprint`
+
+    *Yongqiang Chen, Quanming Yao, Juzheng Zhang, James Cheng, Yatao Bian.* [[PDF](https://arxiv.org/abs/2406.14021)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 #### Graph-Empowered LLM (Graph)
 
 1. **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries.** `EMNLP 2021`
