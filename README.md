@@ -442,7 +442,7 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jialin Dong, Bahare Fatemi, Bryan Perozzi, Lin F. Yang, Anton Tsitsulin.* [[PDF](https://arxiv.org/abs/2405.18414)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-7. **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models** `KDD 2024`
+8. **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models** `KDD 2024`
 
     *Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan.* [[PDF](https://arxiv.org/abs/2406.11945)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/EncoderOnly-blue)
    
