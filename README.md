@@ -596,6 +596,11 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Yongqiang Chen, Quanming Yao, Juzheng Zhang, James Cheng, Yatao Bian.* [[PDF](https://arxiv.org/abs/2406.14021)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+22. **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction** `preprint`
+
+    *Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, Qiaoyu Tan* [[PDF](https://arxiv.org/abs/2406.12950)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+
 #### Graph-Empowered LLM (Graph)
 
 1. **Text2Mol: Cross-Modal Molecule Retrieval with Natural Language Queries.** `EMNLP 2021`
