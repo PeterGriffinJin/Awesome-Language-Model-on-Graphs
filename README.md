@@ -444,7 +444,7 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
 7. **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models** `KDD 2024`
 
-    *Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan.* [[PDF](https://arxiv.org/abs/2406.11945)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+    *Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan.* [[PDF](https://arxiv.org/abs/2406.11945)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/EncoderOnly-blue)
    
 #### Efficiency
 1. **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs.** `PKDD 2023`
