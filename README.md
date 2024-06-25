@@ -442,6 +442,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jialin Dong, Bahare Fatemi, Bryan Perozzi, Lin F. Yang, Anton Tsitsulin.* [[PDF](https://arxiv.org/abs/2405.18414)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+8. **GAugLLM: Improving Graph Contrastive Learning for Text-Attributed Graphs with Large Language Models** `KDD 2024`
+
+    *Yi Fang, Dongzhe Fan, Daochen Zha, Qiaoyu Tan.* [[PDF](https://arxiv.org/abs/2406.11945)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/EncoderOnly-blue)
+   
 #### Efficiency
 1. **Train Your Own GNN Teacher: Graph-Aware Distillation on Textual Graphs.** `PKDD 2023`
 
@@ -591,6 +595,11 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 21. **HIGHT: Hierarchical Graph Tokenization for Graph-Language Alignment** `preprint`
 
     *Yongqiang Chen, Quanming Yao, Juzheng Zhang, James Cheng, Yatao Bian.* [[PDF](https://arxiv.org/abs/2406.14021)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+22. **MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction** `preprint`
+
+    *Yuyan Liu, Sirui Ding, Sheng Zhou, Wenqi Fan, Qiaoyu Tan* [[PDF](https://arxiv.org/abs/2406.12950)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 #### Graph-Empowered LLM (Graph)
 
