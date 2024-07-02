@@ -117,6 +117,10 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Debarati Das, Ishaan Gupta, Jaideep Srivastava, Dongyeop Kang* [[PDF](https://arxiv.org/pdf/2311.09862.pdf)] [[Code]()], 2023.11, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+8. **GraphArena: Benchmarking Large Language Models on Graph Computational Problems.** `preprint`
+
+    *Jianheng Tang, Qifan Zhang, Yuhan Li, Jia Li* [[PDF](https://arxiv.org/abs/2407.00379)] [[Code](https://github.com/squareRoot3/GraphArena)], 2024.7, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 ### <img src="./fig/star.svg" width="15" height="15" /> Heuristic Reasoning
 1. **StructGPT: A General Framework for Large Language Model to Reason over Structured Data.** `preprint`
 
