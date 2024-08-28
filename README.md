@@ -471,6 +471,9 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Yaoke Wang, Yun Zhu, Wenqiao Zhang, Yueting Zhuang, Yunfei Li, Siliang Tang.* [[PDF](https://arxiv.org/abs/2406.12608)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+6. **Graph Language Models.** `ACL 2024`
+
+    *Moritz Plenz, Anette Frank.* [[PDF](https://aclanthology.org/2024.acl-long.245/)][[Code]](https://github.com/Heidelberg-NLP/GraphLanguageModels), 2024.1, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/EncoderDecoder-blue) ![](https://img.shields.io/badge/LLM_T5-red)
 
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
 #### Prediction Alignment
