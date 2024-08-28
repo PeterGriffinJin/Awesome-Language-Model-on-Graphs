@@ -50,6 +50,7 @@ In this paper, we provide a comprehensive review of scenarios and techniques rel
       - [Graph-Empowered LLM (Graph)](#graph-empowered-llm-graph)
     - [LLM as Aligner (Graph)](#-llm-as-aligner-graph)
       - [Latent Space Alignment (Graph)](#latent-space-alignment-graph)
+  - [Others](#others)
   - [Contribution](#contribution)
   - [Citations](#citations)
 
@@ -277,6 +278,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 17. **Graph Neural Network Enhanced Retrieval for Question Answering of LLMs.** `preprint`
 
     *Zijian Li, Qingyan Guo, Jiawei Shao, Lei Song, Jiang Bian, Jun Zhang, Rui Wang.* [[PDF](https://arxiv.org/abs/2406.06572)], 2024.6, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+18. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings.** `preprint`
+
+    *Duo Wang, Yuan Zuo, Fengzhi Li, Junjie Wu.* [[PDF](https://arxiv.org/abs/2408.14512)], 2024.8, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 #### Graph-Empowered LLM (Node)
 
@@ -677,7 +682,11 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     *Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, Sutanay Choudhury.* [[PDF](https://arxiv.org/abs/2402.10980)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
+## Others
 
+1. **Entity Alignment with Noisy Annotations from Large Language Models.** `preprint`
+   
+    *Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang.* [[PDF](https://arxiv.org/pdf/2405.16806)] [[Code](https://github.com/chensyCN/llm4ea_official)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 
 ## Contribution
