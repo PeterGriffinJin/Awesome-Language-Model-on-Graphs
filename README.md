@@ -688,6 +688,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
    
     *Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang.* [[PDF](https://arxiv.org/pdf/2405.16806)] [[Code](https://github.com/chensyCN/llm4ea_official)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+2. **Iterative Graph Alignment.** `preprint`
+   
+    *Fangyuan Yu, Hardeep Singh Arora, Matt Johnson.* [[PDF](https://arxiv.org/abs/2408.16667)], 2024.8, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 ## Contribution
 
