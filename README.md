@@ -692,9 +692,9 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
 ## Others
 
-1. **Entity Alignment with Noisy Annotations from Large Language Models.** `preprint`
+1. **Entity Alignment with Noisy Annotations from Large Language Models.** `NeurIPS 2024`
    
-    *Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang.* [[PDF](https://arxiv.org/pdf/2405.16806)] [[Code](https://github.com/chensyCN/llm4ea_official)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+    *Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li, Xiao Huang.* [[PDF](https://arxiv.org/pdf/2405.16806)] [[Code](https://github.com/chensyCN/llm4ea_official)], 2024.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 2. **Iterative Graph Alignment.** `preprint`
    
