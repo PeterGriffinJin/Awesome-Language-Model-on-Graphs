@@ -705,6 +705,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
    
     *Fangyuan Yu, Hardeep Singh Arora, Matt Johnson.* [[PDF](https://arxiv.org/abs/2408.16667)], 2024.8, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+3. **Can Graph Learning Improve Planning in LLM-based Agents?** `NeurIPS 2024`
+
+   *Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Siwei Wang, Bohang Zhang, Jiarui Feng, Hong Cheng, Wei Chen, Yun Xiong, Dongsheng Li.* [[PDF](https://arxiv.org/pdf/2405.19119)] [[Code](https://github.com/WxxShirley/GNN4TaskPlan)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
+
 
 ## Contribution
 
