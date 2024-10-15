@@ -2,6 +2,8 @@
 
 A curated list of papers and resources about large language models (LLMs) on graphs based on our survey paper: [Large Language Models on Graphs: A Comprehensive Survey](https://arxiv.org/abs/2312.02783). 
 
+**An awesome repo on multimodal learning on graphs an be found [here](https://github.com/PeterGriffinJin/Awesome-Multimodal-on-Graphs)**.
+
 **This repo will be continuously updated. Don't forget to star <img src="./fig/star.svg" width="15" height="15" /> it and keep tuned!**
 
 **Please cite the paper in [Citations](#citations) if you find the resource helpful for your research. Thanks!**
