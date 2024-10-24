@@ -714,6 +714,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
    *Xixi Wu, Yifei Shen, Caihua Shan, Kaitao Song, Siwei Wang, Bohang Zhang, Jiarui Feng, Hong Cheng, Wei Chen, Yun Xiong, Dongsheng Li.* [[PDF](https://arxiv.org/pdf/2405.19119)] [[Code](https://github.com/WxxShirley/GNN4TaskPlan)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Medium-red) ![](https://img.shields.io/badge/LLM-red)
 
+4. **GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration** `preprint`
+
+   *Xin Li, Qizhi Chu, Yubin Chen, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang.* [[PDF](https://arxiv.org/abs/2410.18032)] [[Code](https://github.com/BUPT-GAMMA/GraphTeam)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Large-red) ![](https://img.shields.io/badge/LLM-red)
+
 
 ## Contribution
 
