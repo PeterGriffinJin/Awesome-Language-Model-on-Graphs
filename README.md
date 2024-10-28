@@ -201,6 +201,10 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang.* [[PDF](https://arxiv.org/abs/2409.19667)], 2024.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+19. **Graph Linearization Methods for Reasoning on Graphs with Large Language Models.** `preprint`
+
+    *Christos Xypolopoulos, Guokan Shang, Xiao Fei, Giannis Nikolentzos, Hadi Abdine, Iakovos Evdaimon, Michail Chatzianastasis, Giorgos Stamou, Michalis Vazirgiannis.* [[PDF](https://arxiv.org/abs/2410.19494)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 ### <img src="./fig/star.svg" width="15" height="15" /> Algorithmic Reasoning
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
@@ -717,6 +721,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 4. **GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration** `preprint`
 
    *Xin Li, Qizhi Chu, Yubin Chen, Yang Liu, Yaoqi Liu, Zekai Yu, Weize Chen, Chen Qian, Chuan Shi, Cheng Yang.* [[PDF](https://arxiv.org/abs/2410.18032)] [[Code](https://github.com/BUPT-GAMMA/GraphTeam)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Large-red) ![](https://img.shields.io/badge/LLM-red)
+
+5. **GCoder: Improving Large Language Model for Generalized Graph Problem Solving** `preprint`
+
+   *Qifan Zhang, Xiaobin Hong, Jianheng Tang, Nuo Chen, Yuhan Li, Wenzhong Li, Jing Tang, Jia Li.* [[PDF](https://arxiv.org/abs/2410.19084)] [[Code](https://github.com/Bklight999/WWW25-GCoder/tree/master)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Large-red) ![](https://img.shields.io/badge/LLM-red)
 
 
 ## Contribution
