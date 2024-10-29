@@ -228,6 +228,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
     <img src="./fig/node-data.jpg" width="90%" style="align:center;"/>
 </p>
 
+1. **TEG-DB: A Comprehensive Dataset and Benchmark of Textual-Edge Graphs.** `NeurIPS 2024`
+
+    *Zhuofeng Li, Zixing Gou, Xiangnan Zhang, Zhongyuan Liu, Sirui Li, Yuntong Hu, Chen Ling, Zheng Zhang, Liang Zhao.* [[PDF](https://arxiv.org/abs/2406.10310)] [[Code](https://github.com/Zhuofeng-Li/TEG-Benchmark/tree/main)] [[Dataset](https://huggingface.co/datasets/ZhuofengLi/TEG-Datasets/tree/main)], 2024.9,
+
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Predictor (Node)
 #### Graph As Sequence (Node)
 1. **MATCH: Metadata-Aware Text Classification in A Large Hierarchy.** `WWW 2021`
@@ -725,6 +729,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 5. **GCoder: Improving Large Language Model for Generalized Graph Problem Solving** `preprint`
 
    *Qifan Zhang, Xiaobin Hong, Jianheng Tang, Nuo Chen, Yuhan Li, Wenzhong Li, Jing Tang, Jia Li.* [[PDF](https://arxiv.org/abs/2410.19084)] [[Code](https://github.com/Bklight999/WWW25-GCoder/tree/master)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Large-red) ![](https://img.shields.io/badge/LLM-red)
+
+6. **Graph-based Uncertainty Metrics for Long-form Language Model Outputs** `NeurIPs 2024`
+
+   *Mingjian Jiang, Yangjun Ruan, Prasanna Sattigeri, Salim Roukos, Tatsunori Hashimoto.* [[PDF](https://arxiv.org/abs/2410.20783)], 2024.10
 
 
 ## Contribution
