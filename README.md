@@ -197,7 +197,7 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Yukun Cao, Shuo Han, Zengyi Gao, Zezhong Ding, Xike Xie, S. Kevin Zhou.* [[PDF](https://arxiv.org/abs/2409.03258)], 2024.5, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-18. **Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models.** `NeurIPs`
+18. **Can Large Language Models Analyze Graphs like Professionals? A Benchmark, Datasets and Models.** `NeurIPS 2024`
 
     *Xin Li, Weize Chen, Qizhi Chu, Haopeng Li, Zhaojun Sun, Ran Li, Chen Qian, Yiwei Wei, Zhiyuan Liu, Chuan Shi, Maosong Sun, Cheng Yang.* [[PDF](https://arxiv.org/abs/2409.19667)] [[Code](https://github.com/BUPT-GAMMA/ProGraph)] [[Models and Datasets](https://huggingface.co/lixin4sky/ProGraph)], 2024.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
