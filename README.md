@@ -223,6 +223,9 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Jonathan Larson.* [[PDF](https://arxiv.org/abs/2404.16130)], 2024.4, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+4. **Are Large-Language Models Graph Algorithmic Reasoners?** `preprint`
+
+    *Alexander K Taylor, Anthony Cuturrufo, Vishal Yathish, Mingyu Derek Ma, Wei Wang.* [[PDF](https://arxiv.org/abs/2410.22597)] [[Code](https://github.com/ataylor24/MAGMA)], 2024.10, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
 ## Text-Attributed Graphs
 
