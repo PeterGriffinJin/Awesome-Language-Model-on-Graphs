@@ -124,7 +124,7 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Jianheng Tang, Qifan Zhang, Yuhan Li, Jia Li* [[PDF](https://arxiv.org/abs/2407.00379)] [[Code](https://github.com/squareRoot3/GraphArena)], 2024.7, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
-9. **LLMs hallucinate graphs too: a structural perspective.** `preprint`
+9. **LLMs hallucinate graphs too: a structural perspective.** `Complex Networks 2024`
 
     *Erwan Le Merrer, Gilles Tredan* [[PDF](https://arxiv.org/abs/2409.00159)], 2024.9, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
