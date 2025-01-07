@@ -513,6 +513,10 @@ Table 7 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Moritz Plenz, Anette Frank.* [[PDF](https://aclanthology.org/2024.acl-long.245/)][[Code]](https://github.com/Heidelberg-NLP/GraphLanguageModels), 2024.1, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/EncoderDecoder-blue) ![](https://img.shields.io/badge/LLM_T5-red)
 
+7. **Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?** `preprint`
+
+    *Zihao Li, Lecheng Zheng, Bowen Jin, Dongqi Fu, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han.* [[PDF](https://arxiv.org/abs/2412.08174)], 2024.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
+
 ### <img src="./fig/star.svg" width="15" height="15" /> LLM as Aligner (Node)
 #### Prediction Alignment
 
@@ -713,6 +717,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 9. **CHEMREASONER: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback.** `preprint`
    
     *Henry W. Sprueill, Carl Edwards, Khushbu Agarwal, Mariefel V. Olarte, Udishnu Sanyal, Conrad Johnston, Hongbin Liu, Heng Ji, Sutanay Choudhury.* [[PDF](https://arxiv.org/abs/2402.10980)], 2024.2, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
+10. **Can Graph Neural Networks Learn Language with Extremely Weak Text Supervision?** `preprint`
+
+    *Zihao Li, Lecheng Zheng, Bowen Jin, Dongqi Fu, Baoyu Jing, Yikun Ban, Jingrui He, Jiawei Han.* [[PDF](https://arxiv.org/abs/2412.08174)], 2024.12, ![](https://img.shields.io/badge/EncoderOnly-blue) ![](https://img.shields.io/badge/Medium-red)
 
 
 ## Others
