@@ -209,6 +209,10 @@ Table 3 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
     *Anish Pahilajani, Devasha Trivedi, Jincen Shuai, Khin S. Yone, Samyak Rajesh Jain, Namyong Park, Ryan A. Rossi, Nesreen K. Ahmed, Franck Dernoncourt, Yu Wang.* [[PDF](https://arxiv.org/abs/2411.00369)], 2024.11, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
 
+21. **GraCoRe: Benchmarking Graph Comprehension and Complex Reasoning in Large Language Models** `COLING 2025`
+    
+    *Zike Yuan, Ming Liu, Hui Wang, Bing Qin* [[PDF](https://aclanthology.org/2025.coling-main.531/)] [[Code](https://github.com/ZIKEYUAN/MA-GTS/tree/main)] 2025.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/LLM-red)
+
 
 ### <img src="./fig/star.svg" width="15" height="15" /> Algorithmic Reasoning
 1. **Graph-ToolFormer: To Empower LLMs with Graph Reasoning Ability via Prompt Augmented by ChatGPT.** `preprint`
