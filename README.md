@@ -753,6 +753,10 @@ Table 8 in our survey paper [Large Language Models on Graphs: A Comprehensive Su
 
    *Mingjian Jiang, Yangjun Ruan, Prasanna Sattigeri, Salim Roukos, Tatsunori Hashimoto.* [[PDF](https://arxiv.org/abs/2410.20783)], 2024.10
 
+7. **MA-GTS: A Multi-Agent Framework for Solving Complex Graph Problems in Real-World Applications** `preprint`
+
+   *Zike Yuan, Ming Liu, Hui Wang, Bing Qin* [[PDF](https://arxiv.org/abs/2502.18540)] [[Code](https://github.com/ZIKEYUAN/MA-GTS)], 2025.1, ![](https://img.shields.io/badge/DecoderOnly-blue) ![](https://img.shields.io/badge/Large-red) ![](https://img.shields.io/badge/LLM-red)
+
 
 ## Contribution
 
